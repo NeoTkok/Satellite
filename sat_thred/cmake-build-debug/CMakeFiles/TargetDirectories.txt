@@ -1,0 +1,3 @@
+D:/Satellite_git_clone/sat_thred/cmake-build-debug/CMakeFiles/sat_thred.dir
+D:/Satellite_git_clone/sat_thred/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Satellite_git_clone/sat_thred/cmake-build-debug/CMakeFiles/rebuild_cache.dir

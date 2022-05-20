@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Satellite_git_clone/try_winsock_serv/handle_connections.cpp
+handle_connections.h
+D:/Satellite_git_clone/try_winsock_serv/handle_connections.h
+includes.h
+D:/Satellite_git_clone/try_winsock_serv/includes.h
+sstream
+-
+vector
+-
+clocale
+-
+
+D:/Satellite_git_clone/try_winsock_serv/handle_connections.h
+includes.h
+D:/Satellite_git_clone/try_winsock_serv/includes.h
+
+D:/Satellite_git_clone/try_winsock_serv/includes.h
+winsock2.h
+-
+iostream
+-
+map
+-
+thread
+-
+list
+D:/Satellite_git_clone/try_winsock_serv/list
+
